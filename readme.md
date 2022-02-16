@@ -13,8 +13,16 @@ Use the package manager [NPM](https://www.npmjs.com/) to install dependencies.
 ```bash
 npm install
 ```
+## .env.example
 
-## Installation
+I provided .env.example file. remove .example from .env and add URL and database
+
+```bash
+URL=[Write database url]
+DATABASE=[Write database name]
+```
+
+## Run project
 
 Use the following command to run the project
 
